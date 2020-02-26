@@ -1,0 +1,6 @@
+.form-panel {
+    width: 475px;
+    height: 882px;
+    display: flex;
+    flex-direction: column;
+  }
